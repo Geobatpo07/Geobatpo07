@@ -62,8 +62,9 @@ portfolio     : geovanylaguerre.net
 
 ## 📊 GitHub Stats
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Geobatpo07&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&ring_color=39FF14" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geobatpo07&layout=compact&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=c9d1d9&langs_count=8" alt="Top languages" />
+<img height="165" src="https://raw.githubusercontent.com/Geobatpo07/Geobatpo07/main/profile/stats.svg" alt="GitHub Stats" />
+
+<img height="165" src="https://raw.githubusercontent.com/Geobatpo07/Geobatpo07/main/profile/top-langs.svg" alt="Top languages" />
 
 <img src="https://streak-stats.demolab.com?user=Geobatpo07&hide_border=true&background=0D1117&stroke=39FF14&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub streak stats" />
 
