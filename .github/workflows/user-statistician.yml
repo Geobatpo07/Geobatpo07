@@ -2,13 +2,11 @@ name: GitHub Activity Summary
 
 on:
   schedule:
-    - cron: "0 1 * * *"
-  workflow_dispatch:
+    - cron: "0 3 * * *"   # tous les jours à 3h
+  workflow_dispatch: {}
   push:
-    branches:
-      - main
-    paths:
-      - .github/workflows/user-statistician.yml
+    branches: [main]
+    paths: [".github/workflows/user-statistician.yml"]
 
 jobs:
   update-summary:
@@ -16,6 +14,9 @@ jobs:
     permissions:
       contents: write
     steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
       - name: Generate GitHub activity summary image
         uses: cicirello/user-statistician@v1
         with:
