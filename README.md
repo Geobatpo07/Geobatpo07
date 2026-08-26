@@ -111,6 +111,85 @@ portfolio     : geovanylaguerre.net
 ## ⏱️ Weekly Coding Activity
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 275.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 209 Contributions in the Year 2026
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 136 Public Repositories 
+ > 
+> 🔑 14 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                171 commits         ███████░░░░░░░░░░░░░░░░░░   26.97 % 
+🌆 Daytime                138 commits         █████░░░░░░░░░░░░░░░░░░░░   21.77 % 
+🌃 Evening                140 commits         ██████░░░░░░░░░░░░░░░░░░░   22.08 % 
+🌙 Night                  185 commits         ███████░░░░░░░░░░░░░░░░░░   29.18 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   119 commits         █████░░░░░░░░░░░░░░░░░░░░   18.77 % 
+Tuesday                  89 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
+Wednesday                115 commits         █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
+Thursday                 55 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
+Friday                   90 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
+Saturday                 51 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
+Sunday                   115 commits         █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Paris
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   15 repos            ██████████░░░░░░░░░░░░░░░   38.46 % 
+Java                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+C#                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+Rust                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/Geobatpo07/Geobatpo07/main/assets/bar_graph.png)
+
+
+ Last Updated on 26/08/2026 22:50:24 UTC
 <!--END_SECTION:waka-->
 
 ---
