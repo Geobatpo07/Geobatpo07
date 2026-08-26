@@ -1,0 +1,25 @@
+name: GitHub Activity Summary
+
+on:
+  schedule:
+    - cron: "0 1 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - .github/workflows/user-statistician.yml
+
+jobs:
+  update-summary:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Generate GitHub activity summary image
+        uses: cicirello/user-statistician@v1
+        with:
+          colors: dark
+          image-file: profile/userstats.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -60,11 +60,17 @@ portfolio     : geovanylaguerre.net
 
 <div align="center">
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity Summary
 
-<img height="165" src="https://raw.githubusercontent.com/Geobatpo07/Geobatpo07/main/profile/stats.svg" alt="GitHub Stats" />
+<img src="https://raw.githubusercontent.com/Geobatpo07/Geobatpo07/main/profile/userstats.svg" alt="GitHub activity summary" width="100%" />
 
-<img height="165" src="https://raw.githubusercontent.com/Geobatpo07/Geobatpo07/main/profile/top-langs.svg" alt="Top languages" />
+</div>
+
+---
+
+<div align="center">
+
+## 🔥 Streak
 
 <img src="https://streak-stats.demolab.com?user=Geobatpo07&hide_border=true&background=0D1117&stroke=39FF14&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub streak stats" />
 
@@ -77,16 +83,6 @@ portfolio     : geovanylaguerre.net
 ## 📈 Advanced Metrics
 
 <img src="./github-metrics.svg" alt="Advanced GitHub metrics" width="100%" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🏆 Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=Geobatpo07&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=12" alt="GitHub Trophies" />
 
 </div>
 
