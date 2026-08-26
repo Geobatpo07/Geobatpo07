@@ -1,0 +1,22 @@
+name: Weekly Code Activity
+
+on:
+  schedule:
+    - cron: "0 2 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Update README with WakaTime stats
+        uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_LANGUAGE: true
+          SHOW_OS: true
+          SHOW_PROJECTS: true
+          TIMEZONE: Europe/Paris

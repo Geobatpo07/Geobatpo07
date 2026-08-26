@@ -1,0 +1,35 @@
+name: Sync GitHub Stars
+
+on:
+  schedule:
+    - cron: "0 6 * * 1"
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Sync star counts into README
+        run: python scripts/sync_stars.py
+
+      - name: Commit and push if README changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if git diff --cached --quiet; then
+            echo "No star changes to commit."
+          else
+            git commit -m "chore: sync star counts [skip ci]"
+            git push
+          fi

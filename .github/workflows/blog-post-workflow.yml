@@ -1,0 +1,21 @@
+name: Latest Blog Posts
+
+on:
+  schedule:
+    - cron: "0 5 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Pull latest posts and update README
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://stories.geovanylaguerre.net/rss.xml"
+          max_post_count: 5
