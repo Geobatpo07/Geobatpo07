@@ -17,7 +17,7 @@ geovany_batista_polo_laguerre
 ──────────────────────────────────────────────────────────────
 role          : software & data engineer
 core_stack    : C#/.NET · Java/Spring Boot · Python · Data Science/ML
-education     : M.Sc. Mathematics & Applications — LAMIA, Université des Antilles
+education     : M.Sc. Mathematics & Applications — Université des Antilles
                 > numerical methods for the nonlinear Westervelt equation
                 Civil Engineering degree (Geotechnics) — Université d'État d'Haïti
 philosophy    : mathematical model -> algorithm -> production system
@@ -33,7 +33,7 @@ portfolio     : geovanylaguerre.net
 
 ## 🛠️ Stack
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,python,r,postgres,redis,docker,git,linux,nextjs,ts,react&theme=dark" alt="Stack icons" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,python,r,postgres,mysql,mssql,redis,docker,git,linux,nextjs,ts,react&theme=dark" alt="Stack icons" />
 
 </div>
 
