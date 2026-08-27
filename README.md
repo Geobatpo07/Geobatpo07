@@ -33,7 +33,7 @@ portfolio     : geovanylaguerre.net
 
 ## 🛠️ Stack
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,python,r,postgres,mysql,redis,docker,git,linux,nextjs,ts,react&theme=dark" alt="Stack icons" />
+<img src="https://skillicons.dev/icons?i=python,r,cs,dotnet,java,spring,postgres,mysql,redis,docker,git,linux,nextjs,ts,react&theme=dark" alt="Stack icons" />
 
 </div>
 
