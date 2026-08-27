@@ -19,4 +19,5 @@ jobs:
           SHOW_LANGUAGE: true
           SHOW_OS: true
           SHOW_PROJECTS: true
+          SHOW_LOC_CHART: False
           TIMEZONE: Europe/Paris
