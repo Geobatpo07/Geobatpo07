@@ -98,15 +98,13 @@ portfolio     : geovanylaguerre.net
 ## ⏱️ Weekly Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-70-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 276.5 kB Used in GitHub's Storage 
  > 
-> 🏆 226 Contributions in the Year 2026
+> 🏆 228 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -141,22 +139,47 @@ Sunday                   115 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     2 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   29.89 % 
+Other                    1 hr 29 mins        █████░░░░░░░░░░░░░░░░░░░░   19.39 % 
+Markdown                 1 hr 26 mins        █████░░░░░░░░░░░░░░░░░░░░   18.68 % 
+Docker                   46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
+SCSS                     44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Claude Code              6 hrs 17 mins       ████████████████████░░░░░   81.61 % 
+VS Code                  1 hr 25 mins        █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+datacling                4 hrs 16 mins       ██████████████░░░░░░░░░░░   55.36 % 
+Geobatpo07               1 hr 51 mins        ██████░░░░░░░░░░░░░░░░░░░   24.00 % 
+geobatpo07.github.io     1 hr 28 mins        █████░░░░░░░░░░░░░░░░░░░░   19.15 % 
+mini-api-gateway         6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  7 hrs 42 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 7 hrs 37 mins (98.78%)
+
+✍️ 1,517 lines written by AI, 43 lines written by hand (97.24% AI-written)
+
+🔤 1,835,454 Input Tokens, 349,468 Output Tokens
+
+💵 $44.92 Estimated AI Cost This Week
+
+🧠 10 AI Sessions, 66 AI Prompts
+
+Sonnet                   1,809 lines         █████████████████████████   100.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 97.24% of written lines came from AI
+📄 Detailed Prompter — average 1,360 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 2.85% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -172,7 +195,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/08/2026 12:43:23 UTC
+ Last Updated on 27/08/2026 23:58:02 UTC
 <!--END_SECTION:waka-->
 
 ---
