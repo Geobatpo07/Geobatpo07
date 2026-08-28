@@ -98,7 +98,11 @@ portfolio     : geovanylaguerre.net
 ## ⏱️ Weekly Coding Activity
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-70-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-20%20hrs%2010%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-23%20hrs%2013%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-94-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -195,7 +199,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/08/2026 23:58:02 UTC
+ Last Updated on 28/08/2026 14:16:45 UTC
 <!--END_SECTION:waka-->
 
 ---
