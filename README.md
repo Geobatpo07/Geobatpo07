@@ -98,10 +98,6 @@ portfolio     : geovanylaguerre.net
 ## ⏱️ Weekly Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-20%20hrs%2010%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-23%20hrs%2013%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-94-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -143,47 +139,48 @@ Sunday                   115 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-YAML                     2 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   29.89 % 
-Other                    1 hr 29 mins        █████░░░░░░░░░░░░░░░░░░░░   19.39 % 
-Markdown                 1 hr 26 mins        █████░░░░░░░░░░░░░░░░░░░░   18.68 % 
-Docker                   46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
-SCSS                     44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
+YAML                     1 hr 59 mins        ███████░░░░░░░░░░░░░░░░░░   26.89 % 
+Markdown                 1 hr 40 mins        ██████░░░░░░░░░░░░░░░░░░░   22.74 % 
+Other                    1 hr 23 mins        █████░░░░░░░░░░░░░░░░░░░░   18.76 % 
+Docker                   41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
+Python                   24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
 
 🔥 Editors: 
-Claude Code              6 hrs 17 mins       ████████████████████░░░░░   81.61 % 
-VS Code                  1 hr 25 mins        █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
+Claude Code              6 hrs               ████████████████████░░░░░   81.38 % 
+VS Code                  1 hr 22 mins        █████░░░░░░░░░░░░░░░░░░░░   18.62 % 
 
 🐱‍💻 Projects: 
-datacling                4 hrs 16 mins       ██████████████░░░░░░░░░░░   55.36 % 
-Geobatpo07               1 hr 51 mins        ██████░░░░░░░░░░░░░░░░░░░   24.00 % 
-geobatpo07.github.io     1 hr 28 mins        █████░░░░░░░░░░░░░░░░░░░░   19.15 % 
-mini-api-gateway         6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+datacling                4 hrs 16 mins       ██████████████░░░░░░░░░░░   57.80 % 
+Geobatpo07               1 hr 51 mins        ██████░░░░░░░░░░░░░░░░░░░   25.06 % 
+openmrssalvh             1 hr 7 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
+mini-api-gateway         6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+geobatpo07.github.io     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 
 💻 Operating System: 
-Windows                  7 hrs 42 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 37 mins (98.78%)
+⏱ AI Coding Time: 7 hrs 16 mins (98.54%)
 
-✍️ 1,517 lines written by AI, 43 lines written by hand (97.24% AI-written)
+✍️ 1,426 lines written by AI, 43 lines written by hand (97.07% AI-written)
 
-🔤 1,835,454 Input Tokens, 349,468 Output Tokens
+🔤 2,091,064 Input Tokens, 380,193 Output Tokens
 
-💵 $44.92 Estimated AI Cost This Week
+💵 $48.69 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 66 AI Prompts
+🧠 11 AI Sessions, 59 AI Prompts
 
-Sonnet                   1,809 lines         █████████████████████████   100.00 % 
+Sonnet                   1,717 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.24% of written lines came from AI
-📄 Detailed Prompter — average 1,360 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 2.85% of changed lines were hand-edited
+🤖 AI-Driven — 97.07% of written lines came from AI
+📚 Verbose Prompter — average 1,555 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 2.99% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -199,7 +196,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/08/2026 14:16:45 UTC
+ Last Updated on 29/08/2026 08:56:29 UTC
 <!--END_SECTION:waka-->
 
 ---
