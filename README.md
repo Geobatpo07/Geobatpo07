@@ -98,15 +98,15 @@ portfolio     : geovanylaguerre.net
 ## ⏱️ Weekly Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-63%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-65%20hrs%2052%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-70%20hrs%2021%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-72%20hrs%2020%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-114-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 276.5 kB Used in GitHub's Storage 
+> 📦 276.0 kB Used in GitHub's Storage 
  > 
 > 🏆 228 Contributions in the Year 2026
  > 
@@ -143,46 +143,47 @@ Sunday                   115 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-YAML                     2 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   24.41 % 
-Markdown                 1 hr 53 mins        █████░░░░░░░░░░░░░░░░░░░░   20.16 % 
-Other                    1 hr 29 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
-Python                   1 hr 24 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
-Docker                   44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
+YAML                     2 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   22.50 % 
+Markdown                 1 hr 53 mins        █████░░░░░░░░░░░░░░░░░░░░   19.52 % 
+Other                    1 hr 29 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
+Python                   1 hr 24 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
+Docker                   44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
 
 🔥 Editors: 
-Claude Code              7 hrs 57 mins       █████████████████████░░░░   84.85 % 
-VS Code                  1 hr 25 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
+Claude Code              7 hrs 57 mins       █████████████████████░░░░   82.15 % 
+VS Code                  1 hr 34 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
+PyCharm                  9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
 
 🐱‍💻 Projects: 
-datacling                4 hrs 16 mins       ███████████░░░░░░░░░░░░░░   45.51 % 
-datahut-duckhouse        1 hr 54 mins        █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
-Geobatpo07               1 hr 53 mins        █████░░░░░░░░░░░░░░░░░░░░   20.09 % 
-openmrssalvh             1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
-mini-api-gateway         6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+datacling                4 hrs 16 mins       ███████████░░░░░░░░░░░░░░   44.07 % 
+datahut-duckhouse        1 hr 54 mins        █████░░░░░░░░░░░░░░░░░░░░   19.66 % 
+Geobatpo07               1 hr 53 mins        █████░░░░░░░░░░░░░░░░░░░░   19.46 % 
+openmrssalvh             1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
+CV Recherche             15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
 
 💻 Operating System: 
-Windows                  9 hrs 23 mins       █████████████████████████   100.00 % 
+Windows                  9 hrs 41 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 16 mins (98.81%)
+⏱ AI Coding Time: 9 hrs 16 mins (95.62%)
 
 ✍️ 2,816 lines written by AI, 44 lines written by hand (98.46% AI-written)
 
-🔤 2,564,646 Input Tokens, 539,880 Output Tokens
+🔤 2,585,708 Input Tokens, 548,876 Output Tokens
 
-💵 $67.37 Estimated AI Cost This Week
+💵 $67.63 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 68 AI Prompts
+🧠 13 AI Sessions, 69 AI Prompts
 
 Sonnet                   3,157 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 98.46% of written lines came from AI
-📚 Verbose Prompter — average 1,523 characters per prompt
+📚 Verbose Prompter — average 1,839 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 1.68% of changed lines were hand-edited
 ```
@@ -200,7 +201,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/08/2026 08:14:01 UTC
+ Last Updated on 31/08/2026 08:34:21 UTC
 <!--END_SECTION:waka-->
 
 ---
