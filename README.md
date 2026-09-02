@@ -98,9 +98,9 @@ portfolio     : geovanylaguerre.net
 ## ⏱️ Weekly Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-66%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-67%20hrs%2026%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-72%20hrs%2027%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-73%20hrs%2049%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-114-blue?style=flat)
 
@@ -143,49 +143,49 @@ Sunday                   115 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-YAML                     2 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   20.90 % 
-Markdown                 2 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   19.38 % 
-Other                    1 hr 45 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
-Python                   1 hr 42 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
-Docker                   44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
+Markdown                 2 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   22.67 % 
+YAML                     1 hr 51 mins        █████░░░░░░░░░░░░░░░░░░░░   19.02 % 
+Python                   1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
+Other                    54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
+Docker                   34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
 
 🔥 Editors: 
-Claude Code              9 hrs 16 mins       █████████████████████░░░░   83.44 % 
-VS Code                  1 hr 41 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
-PyCharm                  9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+Claude Code              7 hrs 4 mins        ██████████████████░░░░░░░   72.29 % 
+VS Code                  2 hrs 33 mins       ███████░░░░░░░░░░░░░░░░░░   26.15 % 
+PyCharm                  9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
 
 🐱‍💻 Projects: 
-datacling                4 hrs 16 mins       ██████████░░░░░░░░░░░░░░░   38.42 % 
-datahut-duckhouse        2 hrs 42 mins       ██████░░░░░░░░░░░░░░░░░░░   24.39 % 
-Geobatpo07               1 hr 53 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
-openmrssalvh             1 hr 35 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
-SalvhOpenmrsManagement   22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
+datahut-duckhouse        2 hrs 42 mins       ███████░░░░░░░░░░░░░░░░░░   27.73 % 
+openmrssalvh             2 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   21.72 % 
+Geobatpo07               1 hr 53 mins        █████░░░░░░░░░░░░░░░░░░░░   19.28 % 
+datacling                1 hr 45 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
+SalvhOpenmrsManagement   1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
 
 💻 Operating System: 
-Windows                  11 hrs 7 mins       █████████████████████████   100.00 % 
+Windows                  9 hrs 46 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 38 mins (95.68%)
+⏱ AI Coding Time: 8 hrs 29 mins (86.77%)
 
-✍️ 2,937 lines written by AI, 44 lines written by hand (98.52% AI-written)
+✍️ 2,216 lines written by AI, 229 lines written by hand (90.63% AI-written)
 
-🔤 4,504,823 Input Tokens, 627,115 Output Tokens
+🔤 4,018,691 Input Tokens, 451,574 Output Tokens
 
-💵 $83.90 Estimated AI Cost This Week
+💵 $62.63 Estimated AI Cost This Week
 
-🧠 17 AI Sessions, 78 AI Prompts
+🧠 18 AI Sessions, 60 AI Prompts
 
-Sonnet                   3,325 lines         █████████████████████████   100.00 % 
+Sonnet                   2,330 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.52% of written lines came from AI
-📚 Verbose Prompter — average 1,640 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 1.6% of changed lines were hand-edited
+🤖 AI-Driven — 90.63% of written lines came from AI
+📚 Verbose Prompter — average 2,533 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 9.44% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -201,7 +201,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/09/2026 07:40:49 UTC
+ Last Updated on 02/09/2026 07:03:10 UTC
 <!--END_SECTION:waka-->
 
 ---
