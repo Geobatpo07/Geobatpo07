@@ -143,48 +143,48 @@ Sunday                   115 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Markdown                 1 hr 58 mins        ██████░░░░░░░░░░░░░░░░░░░   24.74 % 
-Python                   1 hr 18 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
-YAML                     1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
-JSON                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
-Other                    29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
+Python                   1 hr 58 mins        ███████░░░░░░░░░░░░░░░░░░   26.63 % 
+Other                    1 hr 16 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
+Markdown                 41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
+JSON                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
+YAML                     27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
 
 🔥 Editors: 
-Claude Code              5 hrs 5 mins        ████████████████░░░░░░░░░   63.47 % 
-VS Code                  2 hrs 46 mins       █████████░░░░░░░░░░░░░░░░   34.62 % 
-PyCharm                  9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+Claude Code              4 hrs 41 mins       ████████████████░░░░░░░░░   63.05 % 
+VS Code                  2 hrs 35 mins       █████████░░░░░░░░░░░░░░░░   34.90 % 
+PyCharm                  9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
 
 🐱‍💻 Projects: 
-datahut-duckhouse        2 hrs 42 mins       ████████░░░░░░░░░░░░░░░░░   33.84 % 
-openmrssalvh             2 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   26.42 % 
-Geobatpo07               1 hr 37 mins        █████░░░░░░░░░░░░░░░░░░░░   20.30 % 
-SalvhOpenmrsManagement   1 hr 17 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
-CV Recherche             15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
+datahut-duckhouse        3 hrs 29 mins       ████████████░░░░░░░░░░░░░   46.95 % 
+SalvhOpenmrsManagement   2 hrs 26 mins       ████████░░░░░░░░░░░░░░░░░   32.85 % 
+openmrssalvh             1 hr 12 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
+CV Recherche             15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+Geobatpo07               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 
 💻 Operating System: 
-Windows                  8 hrs               █████████████████████████   100.00 % 
+Windows                  7 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 28 mins (80.84%)
+⏱ AI Coding Time: 4 hrs 58 mins (67.07%)
 
-✍️ 1,892 lines written by AI, 229 lines written by hand (89.2% AI-written)
+✍️ 2,220 lines written by AI, 186 lines written by hand (92.27% AI-written)
 
-🔤 3,820,481 Input Tokens, 369,844 Output Tokens
+🔤 3,328,806 Input Tokens, 343,546 Output Tokens
 
-💵 $46.44 Estimated AI Cost This Week
+💵 $45.59 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 50 AI Prompts
+🧠 15 AI Sessions, 35 AI Prompts
 
-Sonnet                   2,002 lines         █████████████████████████   100.00 % 
+Sonnet                   2,324 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 89.2% of written lines came from AI
-📚 Verbose Prompter — average 1,843 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 10.82% of changed lines were hand-edited
+🤖 AI-Driven — 92.27% of written lines came from AI
+📚 Verbose Prompter — average 2,079 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 7.56% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -200,7 +200,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/09/2026 07:07:11 UTC
+ Last Updated on 04/09/2026 07:10:54 UTC
 <!--END_SECTION:waka-->
 
 ---
