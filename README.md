@@ -98,9 +98,9 @@ portfolio     : geovanylaguerre.net
 ## ⏱️ Weekly Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-69%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-69%20hrs%2021%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-74%20hrs%2051%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-74%20hrs%2052%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-114-blue?style=flat)
 
@@ -143,48 +143,48 @@ Sunday                   115 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Python                   1 hr 58 mins        ███████░░░░░░░░░░░░░░░░░░   27.23 % 
-Other                    1 hr 16 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
-Markdown                 42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
-JSON                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
-YAML                     27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
+Other                    1 hr 12 mins        ██████░░░░░░░░░░░░░░░░░░░   22.91 % 
+Python                   56 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.82 % 
+JSON                     32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
+Markdown                 28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
+Bash                     22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
 
 🔥 Editors: 
-Claude Code              4 hrs 31 mins       ████████████████░░░░░░░░░   62.37 % 
-VS Code                  2 hrs 34 mins       █████████░░░░░░░░░░░░░░░░   35.53 % 
-PyCharm                  9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+VS Code                  2 hrs 33 mins       ████████████░░░░░░░░░░░░░   48.61 % 
+Claude Code              2 hrs 33 mins       ████████████░░░░░░░░░░░░░   48.50 % 
+PyCharm                  9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
 
 🐱‍💻 Projects: 
-datahut-duckhouse        3 hrs 29 mins       ████████████░░░░░░░░░░░░░   48.02 % 
-SalvhOpenmrsManagement   2 hrs 28 mins       █████████░░░░░░░░░░░░░░░░   34.11 % 
-openmrssalvh             59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
-CV Recherche             15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
-Geobatpo07               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+SalvhOpenmrsManagement   2 hrs 25 mins       ███████████░░░░░░░░░░░░░░   45.99 % 
+datahut-duckhouse        1 hr 33 mins        ███████░░░░░░░░░░░░░░░░░░   29.53 % 
+openmrssalvh             59 mins             █████░░░░░░░░░░░░░░░░░░░░   18.97 % 
+CV Recherche             15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
+nyansa                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 
 💻 Operating System: 
-Windows                  7 hrs 15 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 16 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 49 mins (66.44%)
+⏱ AI Coding Time: 2 hrs 48 mins (53.31%)
 
-✍️ 2,214 lines written by AI, 187 lines written by hand (92.21% AI-written)
+✍️ 607 lines written by AI, 187 lines written by hand (76.45% AI-written)
 
-🔤 3,443,381 Input Tokens, 348,728 Output Tokens
+🔤 2,957,752 Input Tokens, 180,571 Output Tokens
 
-💵 $45.90 Estimated AI Cost This Week
+💵 $26.21 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 35 AI Prompts
+🧠 12 AI Sessions, 25 AI Prompts
 
-Sonnet                   2,318 lines         █████████████████████████   100.00 % 
+Sonnet                   661 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 92.21% of written lines came from AI
-📚 Verbose Prompter — average 2,082 characters per prompt
+🤖 AI-Driven — 76.45% of written lines came from AI
+📚 Verbose Prompter — average 2,442 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 7.61% of changed lines were hand-edited
+🚀 High AI Trust — 22.42% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -200,7 +200,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/09/2026 06:53:57 UTC
+ Last Updated on 06/09/2026 07:04:18 UTC
 <!--END_SECTION:waka-->
 
 ---
