@@ -143,46 +143,44 @@ Sunday                   115 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Other                    1 hr 12 mins        ██████░░░░░░░░░░░░░░░░░░░   22.91 % 
-Python                   56 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.82 % 
-JSON                     32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
-Markdown                 28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
-Bash                     22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
+Other                    1 hr 12 mins        ██████░░░░░░░░░░░░░░░░░░░   24.92 % 
+Python                   56 mins             █████░░░░░░░░░░░░░░░░░░░░   19.38 % 
+JSON                     32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
+Markdown                 28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
+Bash                     22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 33 mins       ████████████░░░░░░░░░░░░░   48.61 % 
-Claude Code              2 hrs 33 mins       ████████████░░░░░░░░░░░░░   48.50 % 
-PyCharm                  9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+Claude Code              2 hrs 26 mins       █████████████░░░░░░░░░░░░   50.43 % 
+VS Code                  2 hrs 23 mins       ████████████░░░░░░░░░░░░░   49.57 % 
 
 🐱‍💻 Projects: 
-SalvhOpenmrsManagement   2 hrs 25 mins       ███████████░░░░░░░░░░░░░░   45.99 % 
-datahut-duckhouse        1 hr 33 mins        ███████░░░░░░░░░░░░░░░░░░   29.53 % 
-openmrssalvh             59 mins             █████░░░░░░░░░░░░░░░░░░░░   18.97 % 
-CV Recherche             15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
-nyansa                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+SalvhOpenmrsManagement   2 hrs 25 mins       █████████████░░░░░░░░░░░░   50.03 % 
+datahut-duckhouse        1 hr 33 mins        ████████░░░░░░░░░░░░░░░░░   32.13 % 
+openmrssalvh             50 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.33 % 
+nyansa                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 
 💻 Operating System: 
-Windows                  5 hrs 16 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 50 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 48 mins (53.31%)
+⏱ AI Coding Time: 2 hrs 41 mins (55.66%)
 
 ✍️ 607 lines written by AI, 187 lines written by hand (76.45% AI-written)
 
-🔤 2,957,752 Input Tokens, 180,571 Output Tokens
+🔤 2,904,887 Input Tokens, 167,247 Output Tokens
 
-💵 $26.21 Estimated AI Cost This Week
+💵 $25.84 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 25 AI Prompts
+🧠 11 AI Sessions, 22 AI Prompts
 
 Sonnet                   661 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 76.45% of written lines came from AI
-📚 Verbose Prompter — average 2,442 characters per prompt
+📚 Verbose Prompter — average 1,708 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 22.42% of changed lines were hand-edited
 ```
@@ -200,7 +198,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/09/2026 07:04:18 UTC
+ Last Updated on 07/09/2026 07:16:11 UTC
 <!--END_SECTION:waka-->
 
 ---
