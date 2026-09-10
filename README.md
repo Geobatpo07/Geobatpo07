@@ -102,7 +102,7 @@ portfolio     : geovanylaguerre.net
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-74%20hrs%2052%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-114-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-44-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -143,43 +143,43 @@ Sunday                   115 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Other                    45 mins             ███████████░░░░░░░░░░░░░░   45.76 % 
-Python                   23 mins             ██████░░░░░░░░░░░░░░░░░░░   23.50 % 
-XML                      8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
-PowerShell               7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
-JSON                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
+Other                    44 mins             ██████████████░░░░░░░░░░░   56.76 % 
+Python                   23 mins             ███████░░░░░░░░░░░░░░░░░░   29.78 % 
+Markdown                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
+XML                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
+PowerShell               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
 
 🔥 Editors: 
-VS Code                  1 hr 7 mins         █████████████████░░░░░░░░   67.84 % 
-Claude Code              32 mins             ████████░░░░░░░░░░░░░░░░░   32.16 % 
+VS Code                  47 mins             ███████████████░░░░░░░░░░   60.19 % 
+Claude Code              31 mins             ██████████░░░░░░░░░░░░░░░   39.81 % 
 
 🐱‍💻 Projects: 
-SalvhOpenmrsManagement   1 hr 9 mins         █████████████████░░░░░░░░   69.65 % 
-datahut-duckhouse        28 mins             ███████░░░░░░░░░░░░░░░░░░   28.85 % 
-nyansa                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+SalvhOpenmrsManagement   48 mins             ███████████████░░░░░░░░░░   61.53 % 
+datahut-duckhouse        28 mins             █████████░░░░░░░░░░░░░░░░   36.56 % 
+nyansa                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
 
 💻 Operating System: 
-Windows                  1 hr 39 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 18 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 40 mins (40.08%)
+⏱ AI Coding Time: 39 mins (49.86%)
 
 ✍️ 427 lines written by AI, 2 lines written by hand (99.53% AI-written)
 
-🔤 395,537 Input Tokens, 48,926 Output Tokens
+🔤 300,869 Input Tokens, 46,689 Output Tokens
 
-💵 $10.15 Estimated AI Cost This Week
+💵 $9.80 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 6 AI Prompts
+🧠 3 AI Sessions, 5 AI Prompts
 
 Sonnet                   443 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.53% of written lines came from AI
-📝 Concise Prompter — average 77 characters per prompt
+📝 Concise Prompter — average 79 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.47% of changed lines were hand-edited
 ```
@@ -197,7 +197,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/09/2026 07:18:38 UTC
+ Last Updated on 10/09/2026 07:15:00 UTC
 <!--END_SECTION:waka-->
 
 ---
