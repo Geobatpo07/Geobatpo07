@@ -102,7 +102,7 @@ portfolio     : geovanylaguerre.net
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-74%20hrs%2052%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-20-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -143,42 +143,22 @@ Sunday                   115 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Other                    1 min               ██████████░░░░░░░░░░░░░░░   40.45 % 
-C#                       1 min               ████████░░░░░░░░░░░░░░░░░   30.97 % 
-Markdown                 1 min               ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+Other                    1 min               █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Claude Code              1 min               █████████████░░░░░░░░░░░░   52.50 % 
-VS Code                  1 min               ████████████░░░░░░░░░░░░░   47.50 % 
+VS Code                  1 min               █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-SalvhOpenmrsManagement   2 mins              ███████████████░░░░░░░░░░   59.55 % 
-nyansa                   1 min               ██████████░░░░░░░░░░░░░░░   40.45 % 
+nyansa                   1 min               █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 mins              █████████████████████████   100.00 % 
+Windows                  1 min               █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 min (52.5%)
-
-✍️ 1 lines written by AI, 2 lines written by hand (33.33% AI-written)
-
-🔤 118,609 Input Tokens, 6,604 Output Tokens
-
-💵 $5.98 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 1 AI Prompts
-
-Sonnet                   60 lines            █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-⚖️ Balanced with AI — 33.33% of written lines came from AI
-📝 Concise Prompter — average 140 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 66.67% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -194,7 +174,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/09/2026 07:14:09 UTC
+ Last Updated on 12/09/2026 07:06:18 UTC
 <!--END_SECTION:waka-->
 
 ---
