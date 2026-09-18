@@ -141,14 +141,15 @@ Sunday                   115 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Java                     2 hrs 2 mins        ███████████░░░░░░░░░░░░░░   43.30 % 
-SQL                      1 hr 37 mins        █████████░░░░░░░░░░░░░░░░   34.36 % 
-Markdown                 21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
-Bash                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
-Other                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+Java                     2 hrs 55 mins       ██████████░░░░░░░░░░░░░░░   38.93 % 
+SQL                      1 hr 49 mins        ██████░░░░░░░░░░░░░░░░░░░   24.28 % 
+C#                       52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
+Markdown                 33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
+Bash                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
 
 🐱‍💻 Projects: 
-openmrssalvh             4 hrs 43 mins       █████████████████████████   100.00 % 
+openmrssalvh             6 hrs 13 mins       █████████████████████░░░░   83.04 % 
+SalvhOpenmrsManagement   1 hr 16 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
 ```
 
 **I Mostly Code in Python** 
@@ -164,7 +165,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/09/2026 07:31:18 UTC
+ Last Updated on 18/09/2026 07:19:55 UTC
 <!--END_SECTION:waka-->
 
 ---
