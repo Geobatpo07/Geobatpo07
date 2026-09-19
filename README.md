@@ -98,7 +98,7 @@ portfolio     : geovanylaguerre.net
 ## ⏱️ Weekly Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-73%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-76%20hrs%2034%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue?style=flat)
 
@@ -141,15 +141,15 @@ Sunday                   115 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Java                     2 hrs 55 mins       ██████████░░░░░░░░░░░░░░░   38.93 % 
-SQL                      1 hr 49 mins        ██████░░░░░░░░░░░░░░░░░░░   24.28 % 
-C#                       52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
-Markdown                 33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
-Bash                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+Java                     3 hrs 48 mins       █████████░░░░░░░░░░░░░░░░   37.28 % 
+SQL                      2 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   24.98 % 
+Markdown                 1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
+C#                       52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
+Bash                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
 
 🐱‍💻 Projects: 
-openmrssalvh             6 hrs 13 mins       █████████████████████░░░░   83.04 % 
-SalvhOpenmrsManagement   1 hr 16 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
+openmrssalvh             8 hrs 57 mins       ██████████████████████░░░   87.55 % 
+SalvhOpenmrsManagement   1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
 ```
 
 **I Mostly Code in Python** 
@@ -165,7 +165,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/09/2026 07:19:55 UTC
+ Last Updated on 19/09/2026 07:16:33 UTC
 <!--END_SECTION:waka-->
 
 ---
