@@ -141,18 +141,18 @@ Sunday                   115 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Java                     3 hrs 48 mins       ███████░░░░░░░░░░░░░░░░░░   27.18 % 
-Other                    2 hrs 52 mins       █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
-SQL                      2 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   18.22 % 
-Markdown                 1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
-TeX                      59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
+Java                     4 hrs               ███████░░░░░░░░░░░░░░░░░░   29.14 % 
+Other                    2 hrs 52 mins       █████░░░░░░░░░░░░░░░░░░░░   20.85 % 
+Markdown                 1 hr 43 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
+SQL                      1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
+TeX                      59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
 
 🐱‍💻 Projects: 
-openmrssalvh             8 hrs 57 mins       ████████████████░░░░░░░░░   63.85 % 
-westervelt-preprint      2 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   18.53 % 
-SalvhOpenmrsManagement   1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
-figures                  1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
-Westervelt-Simulation    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+openmrssalvh             8 hrs 42 mins       ████████████████░░░░░░░░░   63.19 % 
+westervelt-preprint      2 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   18.87 % 
+SalvhOpenmrsManagement   1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
+figures                  1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
+Westervelt-Simulation    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
 ```
 
 **I Mostly Code in Python** 
@@ -168,7 +168,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/09/2026 07:54:16 UTC
+ Last Updated on 22/09/2026 07:38:09 UTC
 <!--END_SECTION:waka-->
 
 ---
