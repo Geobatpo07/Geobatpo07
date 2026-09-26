@@ -98,7 +98,7 @@ portfolio     : geovanylaguerre.net
 ## ⏱️ Weekly Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-89%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-92%20hrs%2021%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue?style=flat)
 
@@ -106,11 +106,11 @@ portfolio     : geovanylaguerre.net
 
 > 📦 276.0 kB Used in GitHub's Storage 
  > 
-> 🏆 233 Contributions in the Year 2026
+> 🏆 235 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 140 Public Repositories 
+> 📜 142 Public Repositories 
  > 
 > 🔑 14 Private Repositories 
  > 
@@ -141,17 +141,17 @@ Sunday                   115 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Markdown                 4 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   22.72 % 
-Java                     3 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   18.51 % 
-Bash                     3 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
-Other                    3 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
-SQL                      2 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
+Markdown                 3 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   21.35 % 
+Bash                     3 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   20.47 % 
+Other                    3 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
+Java                     2 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
+SQL                      1 hr 52 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
 
 🐱‍💻 Projects: 
-openmrssalvh             15 hrs 6 mins       ████████████████████░░░░░   79.92 % 
-westervelt-preprint      2 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
-figures                  1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
-Westervelt-Simulation    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+openmrssalvh             14 hrs 10 mins      ████████████████████░░░░░   78.87 % 
+westervelt-preprint      2 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
+figures                  1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Westervelt-Simulation    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
 ```
 
 **I Mostly Code in Python** 
@@ -167,7 +167,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/09/2026 07:35:25 UTC
+ Last Updated on 26/09/2026 07:28:39 UTC
 <!--END_SECTION:waka-->
 
 ---
