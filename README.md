@@ -98,7 +98,7 @@ portfolio     : geovanylaguerre.net
 ## ⏱️ Weekly Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-92%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-93%20hrs%2057%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue?style=flat)
 
@@ -141,17 +141,16 @@ Sunday                   115 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Markdown                 3 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   21.35 % 
-Bash                     3 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   20.47 % 
-Other                    3 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
-Java                     2 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
-SQL                      1 hr 52 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
+Markdown                 5 hrs 6 mins        ███████░░░░░░░░░░░░░░░░░░   29.59 % 
+Bash                     4 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   24.59 % 
+Java                     2 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
+SQL                      1 hr 52 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
+Other                    54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
 
 🐱‍💻 Projects: 
-openmrssalvh             14 hrs 10 mins      ████████████████████░░░░░   78.87 % 
-westervelt-preprint      2 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
-figures                  1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-Westervelt-Simulation    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+openmrssalvh             14 hrs 10 mins      █████████████████████░░░░   82.03 % 
+nyansa                   2 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
+geobatpo07.github.io     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
 ```
 
 **I Mostly Code in Python** 
@@ -167,7 +166,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/09/2026 07:28:39 UTC
+ Last Updated on 27/09/2026 07:59:02 UTC
 <!--END_SECTION:waka-->
 
 ---
