@@ -98,7 +98,7 @@ portfolio     : geovanylaguerre.net
 ## ⏱️ Weekly Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-93%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-96%20hrs%2048%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue?style=flat)
 
@@ -141,16 +141,16 @@ Sunday                   115 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Markdown                 5 hrs 6 mins        ███████░░░░░░░░░░░░░░░░░░   29.59 % 
-Bash                     4 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   24.59 % 
-Java                     2 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
-SQL                      1 hr 52 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
-Other                    54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
+Markdown                 5 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   28.35 % 
+Bash                     4 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   24.75 % 
+Java                     2 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.76 % 
+SQL                      1 hr 52 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
+Other                    1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
 
 🐱‍💻 Projects: 
-openmrssalvh             14 hrs 10 mins      █████████████████████░░░░   82.03 % 
-nyansa                   2 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
-geobatpo07.github.io     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+openmrssalvh             14 hrs 10 mins      ████████████████████░░░░░   78.23 % 
+nyansa                   3 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.51 % 
+geobatpo07.github.io     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
 ```
 
 **I Mostly Code in Python** 
@@ -166,7 +166,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/09/2026 07:59:02 UTC
+ Last Updated on 28/09/2026 08:35:49 UTC
 <!--END_SECTION:waka-->
 
 ---
