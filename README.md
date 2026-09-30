@@ -99,15 +99,15 @@ portfolio     : geovanylaguerre.net
 ## ⏱️ Weekly Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-97%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-99%20hrs%2055%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 276.0 kB Used in GitHub's Storage 
+> 📦 276.6 kB Used in GitHub's Storage 
  > 
-> 🏆 235 Contributions in the Year 2026
+> 🏆 236 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -118,21 +118,21 @@ portfolio     : geovanylaguerre.net
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                171 commits         ███████░░░░░░░░░░░░░░░░░░   26.23 % 
-🌆 Daytime                139 commits         █████░░░░░░░░░░░░░░░░░░░░   21.32 % 
-🌃 Evening                140 commits         █████░░░░░░░░░░░░░░░░░░░░   21.47 % 
-🌙 Night                  202 commits         ████████░░░░░░░░░░░░░░░░░   30.98 % 
+🌞 Morning                194 commits         ███████░░░░░░░░░░░░░░░░░░   26.32 % 
+🌆 Daytime                162 commits         █████░░░░░░░░░░░░░░░░░░░░   21.98 % 
+🌃 Evening                164 commits         ██████░░░░░░░░░░░░░░░░░░░   22.25 % 
+🌙 Night                  217 commits         ███████░░░░░░░░░░░░░░░░░░   29.44 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   119 commits         █████░░░░░░░░░░░░░░░░░░░░   18.25 % 
-Tuesday                  89 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
-Wednesday                115 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.64 % 
-Thursday                 72 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
-Friday                   90 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
-Saturday                 52 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
-Sunday                   115 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.64 % 
+Monday                   151 commits         █████░░░░░░░░░░░░░░░░░░░░   20.49 % 
+Tuesday                  104 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
+Wednesday                123 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
+Thursday                 73 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
+Friday                   98 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
+Saturday                 63 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
+Sunday                   125 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
 ```
 
 
@@ -142,16 +142,16 @@ Sunday                   115 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Markdown                 5 hrs 20 mins       ███████░░░░░░░░░░░░░░░░░░   27.35 % 
-Bash                     4 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   22.13 % 
-Java                     2 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
-SQL                      1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
-Other                    1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
+Markdown                 4 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   24.18 % 
+Bash                     4 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   23.42 % 
+Other                    2 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
+Java                     1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
+YAML                     1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
 
 🐱‍💻 Projects: 
-openmrssalvh             13 hrs 1 min        █████████████████░░░░░░░░   66.65 % 
-geobatpo07.github.io     3 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
-nyansa                   3 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
+openmrssalvh             10 hrs 6 mins       ██████████████░░░░░░░░░░░   57.43 % 
+geobatpo07.github.io     4 hrs               ██████░░░░░░░░░░░░░░░░░░░   22.78 % 
+nyansa                   3 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   19.79 % 
 ```
 
 **I Mostly Code in Python** 
@@ -167,7 +167,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/09/2026 08:18:36 UTC
+ Last Updated on 30/09/2026 08:19:16 UTC
 <!--END_SECTION:waka-->
 
 ---
