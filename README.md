@@ -142,17 +142,18 @@ Sunday                   119 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Markdown                 3 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   27.26 % 
-Other                    2 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   18.94 % 
-Bash                     1 hr 49 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
-YAML                     1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
-HTML                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
+Markdown                 2 hrs 54 mins       ███████░░░░░░░░░░░░░░░░░░   28.89 % 
+Other                    1 hr 56 mins        █████░░░░░░░░░░░░░░░░░░░░   19.30 % 
+YAML                     1 hr 30 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
+Bash                     1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
+HTML                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
 
 🐱‍💻 Projects: 
-geobatpo07.github.io     5 hrs 14 mins       ███████████░░░░░░░░░░░░░░   45.33 % 
-nyansa                   3 hrs 28 mins       ████████░░░░░░░░░░░░░░░░░   30.15 % 
-openmrssalvh             2 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   21.06 % 
-datahut-duckhouse        24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
+geobatpo07.github.io     5 hrs 14 mins       █████████████░░░░░░░░░░░░   52.15 % 
+nyansa                   3 hrs 28 mins       █████████░░░░░░░░░░░░░░░░   34.69 % 
+openmrssalvh             43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
+datahut-duckhouse        24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
+SalvhOpenmrsManagement   11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
 ```
 
 **I Mostly Code in Python** 
@@ -168,7 +169,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/10/2026 08:20:22 UTC
+ Last Updated on 03/10/2026 07:56:21 UTC
 <!--END_SECTION:waka-->
 
 ---
