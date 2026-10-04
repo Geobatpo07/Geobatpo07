@@ -99,7 +99,7 @@ portfolio     : geovanylaguerre.net
 ## ⏱️ Weekly Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-101%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-102%20hrs%202%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -142,18 +142,18 @@ Sunday                   119 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Markdown                 2 hrs 54 mins       ███████░░░░░░░░░░░░░░░░░░   28.89 % 
-Other                    1 hr 56 mins        █████░░░░░░░░░░░░░░░░░░░░   19.30 % 
-YAML                     1 hr 30 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
-Bash                     1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
-HTML                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
+Other                    1 hr 42 mins        ██████░░░░░░░░░░░░░░░░░░░   24.52 % 
+Markdown                 1 hr 36 mins        ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
+YAML                     1 hr                ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
+Bash                     39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
+HTML                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
 
 🐱‍💻 Projects: 
-geobatpo07.github.io     5 hrs 14 mins       █████████████░░░░░░░░░░░░   52.15 % 
-nyansa                   3 hrs 28 mins       █████████░░░░░░░░░░░░░░░░   34.69 % 
-openmrssalvh             43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
-datahut-duckhouse        24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
-SalvhOpenmrsManagement   11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+geobatpo07.github.io     4 hrs 50 mins       █████████████████░░░░░░░░   69.64 % 
+nyansa                   46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
+openmrssalvh             43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
+datahut-duckhouse        24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
+SalvhOpenmrsManagement   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
 ```
 
 **I Mostly Code in Python** 
@@ -169,7 +169,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/10/2026 07:56:21 UTC
+ Last Updated on 04/10/2026 08:18:28 UTC
 <!--END_SECTION:waka-->
 
 ---
