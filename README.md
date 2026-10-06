@@ -142,18 +142,18 @@ Sunday                   119 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Markdown                 1 hr 34 mins        ██████░░░░░░░░░░░░░░░░░░░   25.84 % 
-Other                    1 hr 32 mins        ██████░░░░░░░░░░░░░░░░░░░   25.28 % 
-YAML                     59 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
-HTML                     33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Bash                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
+Markdown                 50 mins             ███████░░░░░░░░░░░░░░░░░░   28.50 % 
+Other                    49 mins             ███████░░░░░░░░░░░░░░░░░░   27.84 % 
+YAML                     30 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
+Ruby                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
+Bash                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
 
 🐱‍💻 Projects: 
-geobatpo07.github.io     4 hrs 27 mins       ██████████████████░░░░░░░   73.13 % 
-openmrssalvh             43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
-datahut-duckhouse        24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
-nyansa                   18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
-SalvhOpenmrsManagement   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+geobatpo07.github.io     1 hr 53 mins        ████████████████░░░░░░░░░   64.35 % 
+datahut-duckhouse        24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+nyansa                   18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
+SalvhOpenmrsManagement   11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
+openmrssalvh             7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
 ```
 
 **I Mostly Code in Python** 
@@ -169,7 +169,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/10/2026 08:50:08 UTC
+ Last Updated on 06/10/2026 08:52:21 UTC
 <!--END_SECTION:waka-->
 
 ---
