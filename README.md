@@ -107,11 +107,11 @@ portfolio     : geovanylaguerre.net
 
 > 📦 276.7 kB Used in GitHub's Storage 
  > 
-> 🏆 304 Contributions in the Year 2026
+> 🏆 305 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 142 Public Repositories 
+> 📜 143 Public Repositories 
  > 
 > 🔑 14 Private Repositories 
  > 
@@ -142,18 +142,16 @@ Sunday                   119 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Markdown                 50 mins             ███████████░░░░░░░░░░░░░░   42.58 % 
-Other                    21 mins             █████░░░░░░░░░░░░░░░░░░░░   18.56 % 
-YAML                     19 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
-Razor                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
-Ruby                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
+Razor                    5 mins              ███████░░░░░░░░░░░░░░░░░░   28.40 % 
+Markdown                 5 mins              ███████░░░░░░░░░░░░░░░░░░   27.01 % 
+C#                       4 mins              ██████░░░░░░░░░░░░░░░░░░░   23.30 % 
+Java                     2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
+Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
 
 🐱‍💻 Projects: 
-geobatpo07.github.io     1 hr 13 mins        ████████████████░░░░░░░░░   62.44 % 
-datahut-duckhouse        24 mins             █████░░░░░░░░░░░░░░░░░░░░   20.37 % 
-SalvhOpenmrsManagement   11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
-openmrssalvh             7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
-website                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+SalvhOpenmrsManagement   11 mins             ██████████████░░░░░░░░░░░   57.72 % 
+openmrssalvh             7 mins              ██████████░░░░░░░░░░░░░░░   39.35 % 
+website                  0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
 ```
 
 **I Mostly Code in Python** 
@@ -169,7 +167,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/10/2026 08:30:48 UTC
+ Last Updated on 08/10/2026 08:47:19 UTC
 <!--END_SECTION:waka-->
 
 ---
