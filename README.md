@@ -142,16 +142,10 @@ Sunday                   119 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Razor                    5 mins              ███████░░░░░░░░░░░░░░░░░░   28.40 % 
-Markdown                 5 mins              ███████░░░░░░░░░░░░░░░░░░   27.01 % 
-C#                       4 mins              ██████░░░░░░░░░░░░░░░░░░░   23.30 % 
-Java                     2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
-Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+Other                    0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-SalvhOpenmrsManagement   11 mins             ██████████████░░░░░░░░░░░   57.72 % 
-openmrssalvh             7 mins              ██████████░░░░░░░░░░░░░░░   39.35 % 
-website                  0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+website                  0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -167,7 +161,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/10/2026 08:50:53 UTC
+ Last Updated on 10/10/2026 08:23:04 UTC
 <!--END_SECTION:waka-->
 
 ---
