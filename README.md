@@ -105,34 +105,34 @@ portfolio     : geovanylaguerre.net
 
 **🐱 My GitHub Data** 
 
-> 📦 276.7 kB Used in GitHub's Storage 
+> 📦 276.8 kB Used in GitHub's Storage 
  > 
-> 🏆 306 Contributions in the Year 2026
+> 🏆 312 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 144 Public Repositories 
+> 📜 146 Public Repositories 
  > 
 > 🔑 14 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                195 commits         ███████░░░░░░░░░░░░░░░░░░   26.49 % 
-🌆 Daytime                166 commits         ██████░░░░░░░░░░░░░░░░░░░   22.55 % 
-🌃 Evening                163 commits         ██████░░░░░░░░░░░░░░░░░░░   22.15 % 
-🌙 Night                  212 commits         ███████░░░░░░░░░░░░░░░░░░   28.80 % 
+🌞 Morning                199 commits         ███████░░░░░░░░░░░░░░░░░░   26.57 % 
+🌆 Daytime                166 commits         ██████░░░░░░░░░░░░░░░░░░░   22.16 % 
+🌃 Evening                172 commits         ██████░░░░░░░░░░░░░░░░░░░   22.96 % 
+🌙 Night                  212 commits         ███████░░░░░░░░░░░░░░░░░░   28.30 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   148 commits         █████░░░░░░░░░░░░░░░░░░░░   20.11 % 
-Tuesday                  98 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
-Wednesday                138 commits         █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
-Thursday                 74 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
-Friday                   91 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
-Saturday                 68 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
-Sunday                   119 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
+Monday                   154 commits         █████░░░░░░░░░░░░░░░░░░░░   20.56 % 
+Tuesday                  98 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
+Wednesday                142 commits         █████░░░░░░░░░░░░░░░░░░░░   18.96 % 
+Thursday                 74 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
+Friday                   91 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
+Saturday                 71 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
+Sunday                   119 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
 ```
 
 
@@ -142,26 +142,34 @@ Sunday                   119 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Other                    0 secs              █████████████████████████   100.00 % 
+Markdown                 47 mins             ███████░░░░░░░░░░░░░░░░░░   27.16 % 
+TMDL                     36 mins             █████░░░░░░░░░░░░░░░░░░░░   20.98 % 
+JSON                     35 mins             █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
+Other                    25 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
+YAML                     19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
 
 🐱‍💻 Projects: 
-website                  0 secs              █████████████████████████   100.00 % 
+dashboard_SIGHH          1 hr 30 mins        █████████████░░░░░░░░░░░░   51.65 % 
+geo-claude-plugins       31 mins             █████░░░░░░░░░░░░░░░░░░░░   18.02 % 
+tables                   17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
+visuals                  13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
+definition               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   15 repos            ██████████░░░░░░░░░░░░░░░   38.46 % 
-Java                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
-C#                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
-Rust                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+Python                   16 repos            ██████████░░░░░░░░░░░░░░░   40.00 % 
+Java                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
+TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+C#                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+Rust                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
 ```
 
 
 
 
- Last Updated on 13/10/2026 09:16:27 UTC
+ Last Updated on 14/10/2026 07:26:54 UTC
 <!--END_SECTION:waka-->
 
 ---
