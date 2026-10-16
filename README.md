@@ -99,7 +99,7 @@ portfolio     : geovanylaguerre.net
 ## ⏱️ Weekly Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-104%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-110%20hrs%2031%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -142,18 +142,18 @@ Sunday                   119 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Markdown                 2 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   25.48 % 
-Python                   59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
-R                        57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
-YAML                     56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
-TMDL                     48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
+Markdown                 2 hrs 32 mins       ███████░░░░░░░░░░░░░░░░░░   26.83 % 
+Python                   1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
+R                        57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
+YAML                     56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+TMDL                     48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
 
 🐱‍💻 Projects: 
-simulation-chlordecone   4 hrs 26 mins       ████████████░░░░░░░░░░░░░   49.85 % 
-dashboard_SIGHH          2 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   23.10 % 
-geo-claude-plugins       54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
-openmrssalvh             41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
-tables                   17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+simulation-chlordecone   4 hrs 26 mins       ████████████░░░░░░░░░░░░░   46.82 % 
+dashboard_SIGHH          2 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   21.70 % 
+geo-claude-plugins       1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
+openmrssalvh             59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
+tables                   17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
 ```
 
 **I Mostly Code in Python** 
@@ -169,7 +169,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/10/2026 07:17:51 UTC
+ Last Updated on 16/10/2026 07:00:58 UTC
 <!--END_SECTION:waka-->
 
 ---
