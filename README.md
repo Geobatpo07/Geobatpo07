@@ -99,7 +99,7 @@ portfolio     : geovanylaguerre.net
 ## ⏱️ Weekly Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-111%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-111%20hrs%207%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -107,11 +107,11 @@ portfolio     : geovanylaguerre.net
 
 > 📦 276.9 kB Used in GitHub's Storage 
  > 
-> 🏆 316 Contributions in the Year 2026
+> 🏆 317 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 146 Public Repositories 
+> 📜 147 Public Repositories 
  > 
 > 🔑 14 Private Repositories 
  > 
@@ -142,17 +142,17 @@ Sunday                   119 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Markdown                 2 hrs 34 mins       ███████░░░░░░░░░░░░░░░░░░   26.99 % 
-Python                   1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
-R                        57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
-YAML                     56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
-TMDL                     48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+Markdown                 2 hrs 34 mins       ███████░░░░░░░░░░░░░░░░░░   27.03 % 
+Python                   1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
+R                        57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
+YAML                     56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
+TMDL                     48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
 
 🐱‍💻 Projects: 
-simulation-chlordecone   4 hrs 26 mins       ████████████░░░░░░░░░░░░░   46.71 % 
-dashboard_SIGHH          2 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   21.87 % 
-geo-claude-plugins       1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
-openmrssalvh             59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
+simulation-chlordecone   4 hrs 26 mins       ████████████░░░░░░░░░░░░░   46.76 % 
+dashboard_SIGHH          2 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   21.90 % 
+geo-claude-plugins       1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
+openmrssalvh             59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
 tables                   17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
 ```
 
@@ -169,7 +169,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/10/2026 06:50:40 UTC
+ Last Updated on 18/10/2026 07:10:35 UTC
 <!--END_SECTION:waka-->
 
 ---
