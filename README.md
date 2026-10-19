@@ -91,7 +91,7 @@ portfolio     : geovanylaguerre.net
 ## 📡 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/Geobatpo07/simulation-chlordecone/pull/3) in [Geobatpo07/simulation-chlordecone](https://github.com/Geobatpo07/simulation-chlordecone)
+1. 🎉 Merged PR [#1](https://github.com/Geobatpo07/nyansa/pull/1) in [Geobatpo07/nyansa](https://github.com/Geobatpo07/nyansa)
 <!--END_SECTION:activity-->
 
 ---
