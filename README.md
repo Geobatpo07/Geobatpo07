@@ -107,11 +107,11 @@ portfolio     : geovanylaguerre.net
 
 > 📦 276.9 kB Used in GitHub's Storage 
  > 
-> 🏆 317 Contributions in the Year 2026
+> 🏆 318 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 147 Public Repositories 
+> 📜 148 Public Repositories 
  > 
 > 🔑 14 Private Repositories 
  > 
@@ -142,18 +142,18 @@ Sunday                   119 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Markdown                 2 hrs 34 mins       ███████░░░░░░░░░░░░░░░░░░   27.03 % 
-Python                   1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
-R                        57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
-YAML                     56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
-TMDL                     48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
+Markdown                 2 hrs 34 mins       ███████░░░░░░░░░░░░░░░░░░   26.71 % 
+Python                   1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
+R                        57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
+YAML                     56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
+TMDL                     48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
 
 🐱‍💻 Projects: 
-simulation-chlordecone   4 hrs 26 mins       ████████████░░░░░░░░░░░░░   46.76 % 
-dashboard_SIGHH          2 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   21.90 % 
-geo-claude-plugins       1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
-openmrssalvh             59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
-tables                   17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+simulation-chlordecone   4 hrs 26 mins       ████████████░░░░░░░░░░░░░   46.22 % 
+dashboard_SIGHH          2 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   21.64 % 
+geo-claude-plugins       1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
+openmrssalvh             59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
+tables                   17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
 ```
 
 **I Mostly Code in Python** 
@@ -169,7 +169,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/10/2026 07:10:35 UTC
+ Last Updated on 19/10/2026 07:38:31 UTC
 <!--END_SECTION:waka-->
 
 ---
