@@ -107,7 +107,7 @@ portfolio     : geovanylaguerre.net
 
 > 📦 276.9 kB Used in GitHub's Storage 
  > 
-> 🏆 318 Contributions in the Year 2026
+> 🏆 322 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -142,18 +142,18 @@ Sunday                   119 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Markdown                 2 hrs 34 mins       ███████░░░░░░░░░░░░░░░░░░   26.71 % 
-Python                   1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
-R                        57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
-YAML                     56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
-TMDL                     48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
+Markdown                 3 hrs 9 mins        ███████░░░░░░░░░░░░░░░░░░   29.97 % 
+Python                   1 hr 32 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
+R                        57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
+YAML                     56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
+TMDL                     48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
 
 🐱‍💻 Projects: 
-simulation-chlordecone   4 hrs 26 mins       ████████████░░░░░░░░░░░░░   46.22 % 
-dashboard_SIGHH          2 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   21.64 % 
-geo-claude-plugins       1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
-openmrssalvh             59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
-tables                   17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+simulation-chlordecone   4 hrs 26 mins       ███████████░░░░░░░░░░░░░░   42.07 % 
+dashboard_SIGHH          2 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   19.70 % 
+geo-claude-plugins       1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
+openmrssalvh             59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
+nyansa                   56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
 ```
 
 **I Mostly Code in Python** 
@@ -169,7 +169,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/10/2026 07:38:31 UTC
+ Last Updated on 20/10/2026 07:24:59 UTC
 <!--END_SECTION:waka-->
 
 ---
