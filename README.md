@@ -91,7 +91,7 @@ portfolio     : geovanylaguerre.net
 ## 📡 Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#152](https://github.com/n8n-io/self-hosted-ai-starter-kit/pull/152) in [n8n-io/self-hosted-ai-starter-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit)
+1. 🎉 Merged PR [#4](https://github.com/Geobatpo07/nyansa/pull/4) in [Geobatpo07/nyansa](https://github.com/Geobatpo07/nyansa)
 <!--END_SECTION:activity-->
 
 ---
