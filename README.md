@@ -99,13 +99,13 @@ portfolio     : geovanylaguerre.net
 ## ⏱️ Weekly Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-112%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-114%20hrs%2025%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 276.9 kB Used in GitHub's Storage 
+> 📦 277.0 kB Used in GitHub's Storage 
  > 
 > 🏆 324 Contributions in the Year 2026
  > 
@@ -142,18 +142,18 @@ Sunday                   119 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Markdown                 2 hrs 56 mins       ███████░░░░░░░░░░░░░░░░░░   29.19 % 
-Python                   2 hrs 47 mins       ███████░░░░░░░░░░░░░░░░░░   27.64 % 
-R                        57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
-YAML                     43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
-Bash                     42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
+Python                   2 hrs 20 mins       ███████████░░░░░░░░░░░░░░   43.50 % 
+Markdown                 1 hr 55 mins        █████████░░░░░░░░░░░░░░░░   35.95 % 
+Bash                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
+JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
+Other                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
 
 🐱‍💻 Projects: 
-simulation-chlordecone   4 hrs 26 mins       ███████████░░░░░░░░░░░░░░   44.00 % 
-nyansa                   3 hrs 18 mins       ████████░░░░░░░░░░░░░░░░░   32.72 % 
-openmrssalvh             55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
-geo-claude-plugins       38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
-dashboard_SIGHH          18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+nyansa                   4 hrs 30 mins       ████████████████████░░░░░   81.22 % 
+openmrssalvh             18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
+geo-claude-plugins       16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+visuals                  13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
+website                  6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
 ```
 
 **I Mostly Code in Python** 
@@ -169,7 +169,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/10/2026 07:26:23 UTC
+ Last Updated on 22/10/2026 07:26:38 UTC
 <!--END_SECTION:waka-->
 
 ---
