@@ -91,7 +91,7 @@ portfolio     : geovanylaguerre.net
 ## 📡 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/Geobatpo07/nyansa/pull/4) in [Geobatpo07/nyansa](https://github.com/Geobatpo07/nyansa)
+1. 🎉 Merged PR [#1](https://github.com/Geobatpo07/stories/pull/1) in [Geobatpo07/stories](https://github.com/Geobatpo07/stories)
 <!--END_SECTION:activity-->
 
 ---
