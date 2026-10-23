@@ -91,7 +91,7 @@ portfolio     : geovanylaguerre.net
 ## 📡 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#14](https://github.com/Geobatpo07/stories/pull/14) in [Geobatpo07/stories](https://github.com/Geobatpo07/stories)
+1. 🎉 Merged PR [#15](https://github.com/Geobatpo07/stories/pull/15) in [Geobatpo07/stories](https://github.com/Geobatpo07/stories)
 <!--END_SECTION:activity-->
 
 ---
