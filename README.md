@@ -107,7 +107,7 @@ portfolio     : geovanylaguerre.net
 
 > 📦 277.5 kB Used in GitHub's Storage 
  > 
-> 🏆 347 Contributions in the Year 2026
+> 🏆 348 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -118,21 +118,21 @@ portfolio     : geovanylaguerre.net
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                206 commits         ███████░░░░░░░░░░░░░░░░░░   26.79 % 
-🌆 Daytime                167 commits         █████░░░░░░░░░░░░░░░░░░░░   21.72 % 
-🌃 Evening                182 commits         ██████░░░░░░░░░░░░░░░░░░░   23.67 % 
-🌙 Night                  214 commits         ███████░░░░░░░░░░░░░░░░░░   27.83 % 
+🌞 Morning                206 commits         ███████░░░░░░░░░░░░░░░░░░   26.75 % 
+🌆 Daytime                167 commits         █████░░░░░░░░░░░░░░░░░░░░   21.69 % 
+🌃 Evening                182 commits         ██████░░░░░░░░░░░░░░░░░░░   23.64 % 
+🌙 Night                  215 commits         ███████░░░░░░░░░░░░░░░░░░   27.92 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   160 commits         █████░░░░░░░░░░░░░░░░░░░░   20.81 % 
-Tuesday                  98 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
-Wednesday                147 commits         █████░░░░░░░░░░░░░░░░░░░░   19.12 % 
-Thursday                 75 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
-Friday                   94 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
-Saturday                 76 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
-Sunday                   119 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
+Monday                   160 commits         █████░░░░░░░░░░░░░░░░░░░░   20.78 % 
+Tuesday                  99 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
+Wednesday                147 commits         █████░░░░░░░░░░░░░░░░░░░░   19.09 % 
+Thursday                 75 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
+Friday                   94 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
+Saturday                 76 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
+Sunday                   119 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
 ```
 
 
@@ -142,18 +142,18 @@ Sunday                   119 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Markdown                 4 hrs 47 mins       ████████░░░░░░░░░░░░░░░░░   30.02 % 
-Python                   3 hrs 44 mins       ██████░░░░░░░░░░░░░░░░░░░   23.49 % 
-Other                    2 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   18.46 % 
-Bash                     2 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
-TypeScript               1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
+Markdown                 4 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   26.67 % 
+Python                   3 hrs 51 mins       ██████░░░░░░░░░░░░░░░░░░░   24.08 % 
+Other                    3 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   19.16 % 
+Bash                     2 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
+TypeScript               1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
 
 🐱‍💻 Projects: 
-stories                  7 hrs 59 mins       █████████████░░░░░░░░░░░░   50.15 % 
-nyansa                   4 hrs 30 mins       ███████░░░░░░░░░░░░░░░░░░   28.24 % 
-stories-p3               1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
-dashboard_SIGHH          55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
-openmrssalvh             34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
+stories                  7 hrs 59 mins       ████████████░░░░░░░░░░░░░   49.91 % 
+nyansa                   3 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   22.20 % 
+stories-p3               1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
+scientific-assistant     1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
+dashboard_SIGHH          55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
 ```
 
 **I Mostly Code in Python** 
@@ -169,7 +169,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/10/2026 07:42:06 UTC
+ Last Updated on 27/10/2026 07:39:43 UTC
 <!--END_SECTION:waka-->
 
 ---
