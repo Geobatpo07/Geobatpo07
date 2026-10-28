@@ -177,6 +177,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 ## 📝 Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [When the Proof Assistant Started Guessing: AI&#39;s Quiet Reshaping of Mathematical Practice](https://stories.geovanylaguerre.net/stories/when-the-proof-assistant-started-guessing-ai-s-quiet-reshaping-of-mathematical-practice)
 <!-- BLOG-POST-LIST:END -->
 
 ---
