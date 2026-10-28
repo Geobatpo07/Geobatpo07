@@ -99,40 +99,40 @@ portfolio     : geovanylaguerre.net
 ## ⏱️ Weekly Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-124%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-125%20hrs%201%20min-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 277.5 kB Used in GitHub's Storage 
+> 📦 277.6 kB Used in GitHub's Storage 
  > 
-> 🏆 348 Contributions in the Year 2026
+> 🏆 361 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 149 Public Repositories 
+> 📜 150 Public Repositories 
  > 
 > 🔑 14 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                206 commits         ███████░░░░░░░░░░░░░░░░░░   26.75 % 
-🌆 Daytime                167 commits         █████░░░░░░░░░░░░░░░░░░░░   21.69 % 
-🌃 Evening                182 commits         ██████░░░░░░░░░░░░░░░░░░░   23.64 % 
-🌙 Night                  215 commits         ███████░░░░░░░░░░░░░░░░░░   27.92 % 
+🌞 Morning                206 commits         ███████░░░░░░░░░░░░░░░░░░   26.51 % 
+🌆 Daytime                167 commits         █████░░░░░░░░░░░░░░░░░░░░   21.49 % 
+🌃 Evening                183 commits         ██████░░░░░░░░░░░░░░░░░░░   23.55 % 
+🌙 Night                  221 commits         ███████░░░░░░░░░░░░░░░░░░   28.44 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   160 commits         █████░░░░░░░░░░░░░░░░░░░░   20.78 % 
-Tuesday                  99 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
-Wednesday                147 commits         █████░░░░░░░░░░░░░░░░░░░░   19.09 % 
-Thursday                 75 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
-Friday                   94 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
-Saturday                 76 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
-Sunday                   119 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
+Monday                   160 commits         █████░░░░░░░░░░░░░░░░░░░░   20.59 % 
+Tuesday                  100 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
+Wednesday                153 commits         █████░░░░░░░░░░░░░░░░░░░░   19.69 % 
+Thursday                 75 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
+Friday                   94 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
+Saturday                 76 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
+Sunday                   119 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
 ```
 
 
@@ -142,18 +142,18 @@ Sunday                   119 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Markdown                 4 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   26.67 % 
-Python                   3 hrs 51 mins       ██████░░░░░░░░░░░░░░░░░░░   24.08 % 
-Other                    3 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   19.16 % 
-Bash                     2 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
-TypeScript               1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Markdown                 3 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   25.58 % 
+Python                   3 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   22.82 % 
+Other                    3 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   20.62 % 
+Bash                     2 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
+TypeScript               1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
 
 🐱‍💻 Projects: 
-stories                  7 hrs 59 mins       ████████████░░░░░░░░░░░░░   49.91 % 
-nyansa                   3 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   22.20 % 
-stories-p3               1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
-scientific-assistant     1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
-dashboard_SIGHH          55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
+stories                  8 hrs 17 mins       ██████████████░░░░░░░░░░░   54.11 % 
+scientific-assistant     2 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
+stories-p3               1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
+nyansa                   1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
+dashboard_SIGHH          55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
 ```
 
 **I Mostly Code in Python** 
@@ -169,7 +169,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/10/2026 07:39:43 UTC
+ Last Updated on 28/10/2026 08:14:52 UTC
 <!--END_SECTION:waka-->
 
 ---
