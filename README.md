@@ -99,13 +99,13 @@ portfolio     : geovanylaguerre.net
 ## ⏱️ Weekly Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-125%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-126%20hrs%2035%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 277.6 kB Used in GitHub's Storage 
+> 📦 277.5 kB Used in GitHub's Storage 
  > 
 > 🏆 361 Contributions in the Year 2026
  > 
@@ -142,18 +142,18 @@ Sunday                   119 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Markdown                 3 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   25.58 % 
-Python                   3 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   22.82 % 
-Other                    3 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   20.62 % 
-Bash                     2 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
-TypeScript               1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
+Markdown                 3 hrs 38 mins       ██████░░░░░░░░░░░░░░░░░░░   23.94 % 
+Python                   3 hrs 25 mins       ██████░░░░░░░░░░░░░░░░░░░   22.56 % 
+Other                    3 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   20.82 % 
+Bash                     2 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
+TypeScript               1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
 
 🐱‍💻 Projects: 
-stories                  8 hrs 17 mins       ██████████████░░░░░░░░░░░   54.11 % 
-scientific-assistant     2 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
-stories-p3               1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
-nyansa                   1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
-dashboard_SIGHH          55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
+stories                  9 hrs 21 mins       ███████████████░░░░░░░░░░   61.60 % 
+scientific-assistant     2 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
+stories-p3               1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
+dashboard_SIGHH          55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+openmrssalvh             34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
 ```
 
 **I Mostly Code in Python** 
@@ -169,7 +169,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/10/2026 08:14:52 UTC
+ Last Updated on 29/10/2026 08:20:46 UTC
 <!--END_SECTION:waka-->
 
 ---
