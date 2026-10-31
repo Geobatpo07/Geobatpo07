@@ -99,7 +99,7 @@ portfolio     : geovanylaguerre.net
 ## ⏱️ Weekly Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-127%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-128%20hrs%2017%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -142,18 +142,16 @@ Sunday                   119 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Markdown                 2 hrs 57 mins       ██████░░░░░░░░░░░░░░░░░░░   23.70 % 
-Python                   2 hrs 49 mins       ██████░░░░░░░░░░░░░░░░░░░   22.69 % 
-Bash                     2 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.90 % 
-Other                    2 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
-TypeScript               59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
+Python                   2 hrs 1 min         █████████░░░░░░░░░░░░░░░░   36.26 % 
+Bash                     1 hr                █████░░░░░░░░░░░░░░░░░░░░   18.19 % 
+YAML                     45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
+TypeScript               43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
+Markdown                 28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
 
 🐱‍💻 Projects: 
-stories                  8 hrs 27 mins       █████████████████░░░░░░░░   67.80 % 
-scientific-assistant     2 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   19.52 % 
-stories-p3               47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
-openmrssalvh             34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-dashboard_SIGHH          10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+stories                  3 hrs 4 mins        ██████████████░░░░░░░░░░░   55.35 % 
+scientific-assistant     2 hrs 26 mins       ███████████░░░░░░░░░░░░░░   43.78 % 
+geo-claude-plugins       2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
 ```
 
 **I Mostly Code in Python** 
@@ -169,7 +167,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/10/2026 08:28:18 UTC
+ Last Updated on 31/10/2026 08:18:51 UTC
 <!--END_SECTION:waka-->
 
 ---
