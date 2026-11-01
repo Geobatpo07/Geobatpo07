@@ -142,16 +142,16 @@ Sunday                   119 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Python                   2 hrs 1 min         █████████░░░░░░░░░░░░░░░░   36.26 % 
-Bash                     1 hr                █████░░░░░░░░░░░░░░░░░░░░   18.19 % 
-YAML                     45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
-TypeScript               43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
-Markdown                 28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
+Python                   1 hr 48 mins        ██████████░░░░░░░░░░░░░░░   40.08 % 
+YAML                     45 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
+TypeScript               34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
+Markdown                 27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
+Bash                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
 
 🐱‍💻 Projects: 
-stories                  3 hrs 4 mins        ██████████████░░░░░░░░░░░   55.35 % 
-scientific-assistant     2 hrs 26 mins       ███████████░░░░░░░░░░░░░░   43.78 % 
-geo-claude-plugins       2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+scientific-assistant     2 hrs 26 mins       ██████████████░░░░░░░░░░░   54.21 % 
+stories                  2 hrs               ███████████░░░░░░░░░░░░░░   44.71 % 
+geo-claude-plugins       2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
 ```
 
 **I Mostly Code in Python** 
@@ -167,7 +167,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/10/2026 08:18:51 UTC
+ Last Updated on 01/11/2026 09:01:29 UTC
 <!--END_SECTION:waka-->
 
 ---
