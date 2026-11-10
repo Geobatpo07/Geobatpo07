@@ -91,7 +91,7 @@ portfolio     : geovanylaguerre.net
 ## 📡 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#21](https://github.com/Geobatpo07/stories/pull/21) in [Geobatpo07/stories](https://github.com/Geobatpo07/stories)
+1. 🗣 Commented on [#6](https://github.com/Geobatpo07/datahut-duckhouse/pull/6#issuecomment-6779809484) in [Geobatpo07/datahut-duckhouse](https://github.com/Geobatpo07/datahut-duckhouse)
 <!--END_SECTION:activity-->
 
 ---
