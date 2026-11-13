@@ -91,7 +91,7 @@ portfolio     : geovanylaguerre.net
 ## 📡 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Keemboll/keemboll-bi/pull/1) in [Keemboll/keemboll-bi](https://github.com/Keemboll/keemboll-bi)
+1. 🎉 Merged PR [#2](https://github.com/Keemboll/keemboll-bi/pull/2) in [Keemboll/keemboll-bi](https://github.com/Keemboll/keemboll-bi)
 <!--END_SECTION:activity-->
 
 ---
